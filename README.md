@@ -19,4 +19,4 @@
 
 1. Скопируйте репозиторий на свой компьютер.
    ```bash
-   git clone https://github.com/ваш_логин/ваш_репозиторий.git
+   git clone https://github.com/birionn/VRPOproject.git
